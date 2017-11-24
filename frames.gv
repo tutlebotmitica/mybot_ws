@@ -1,0 +1,14 @@
+digraph G {
+"chassis" -> "laser_base_link"[label="Broadcaster: /robot_state_publisher\nAverage rate: 50.196 Hz\nMost recent transform: 1511475057.505 ( -0.483 sec old)\nBuffer length: 4.961 sec\n"];
+"map" -> "chassis"[label="Broadcaster: /hector_height_mapping\nAverage rate: 13.358 Hz\nMost recent transform: 1511475056.899 ( 0.123 sec old)\nBuffer length: 4.941 sec\n"];
+"laser_base_link" -> "laser"[label="Broadcaster: /robot_state_publisher\nAverage rate: 50.196 Hz\nMost recent transform: 1511475057.505 ( -0.483 sec old)\nBuffer length: 4.961 sec\n"];
+"map" -> "scanmatcher_frame"[label="Broadcaster: /hector_height_mapping\nAverage rate: 13.358 Hz\nMost recent transform: 1511475056.899 ( 0.123 sec old)\nBuffer length: 4.941 sec\n"];
+"odom" -> "base_link"[label="Broadcaster: /arduino\nAverage rate: 9.109 Hz\nMost recent transform: 1511475057.017 ( 0.004 sec old)\nBuffer length: 4.940 sec\n"];
+"map" -> "odom"[label="Broadcaster: /link1_broadcaster\nAverage rate: 10.193 Hz\nMost recent transform: 1511475057.091 ( -0.070 sec old)\nBuffer length: 4.905 sec\n"];
+"chassis" -> "left_wheel"[label="Broadcaster: /robot_state_publisher\nAverage rate: 10.208 Hz\nMost recent transform: 1511475056.921 ( 0.100 sec old)\nBuffer length: 4.800 sec\n"];
+"chassis" -> "right_wheel"[label="Broadcaster: /robot_state_publisher\nAverage rate: 10.208 Hz\nMost recent transform: 1511475056.921 ( 0.100 sec old)\nBuffer length: 4.800 sec\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1511475057.021"[ shape=plaintext ] ;
+ }->"map";
+}

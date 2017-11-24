@@ -1,0 +1,4 @@
+Symlinking /home/turtlebot/mybot_ws/devel/share/ros_arduino_python/cmake/ros_arduino_pythonConfig-version.cmake
+Symlinking /home/turtlebot/mybot_ws/devel/share/ros_arduino_python/cmake/ros_arduino_pythonConfig.cmake
+Symlinking /home/turtlebot/mybot_ws/devel/lib/python2.7/dist-packages/ros_arduino_python/__init__.py
+Symlinking /home/turtlebot/mybot_ws/devel/lib/pkgconfig/ros_arduino_python.pc

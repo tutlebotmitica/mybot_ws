@@ -1,0 +1,8 @@
+/home/turtlebot/mybot_ws/build/mybot_control/CMakeFiles/_catkin_empty_exported_target.dir
+/home/turtlebot/mybot_ws/build/mybot_control/CMakeFiles/clean_test_results.dir
+/home/turtlebot/mybot_ws/build/mybot_control/CMakeFiles/download_extra_data.dir
+/home/turtlebot/mybot_ws/build/mybot_control/CMakeFiles/doxygen.dir
+/home/turtlebot/mybot_ws/build/mybot_control/gtest/CMakeFiles/gtest.dir
+/home/turtlebot/mybot_ws/build/mybot_control/gtest/CMakeFiles/gtest_main.dir
+/home/turtlebot/mybot_ws/build/mybot_control/CMakeFiles/run_tests.dir
+/home/turtlebot/mybot_ws/build/mybot_control/CMakeFiles/tests.dir

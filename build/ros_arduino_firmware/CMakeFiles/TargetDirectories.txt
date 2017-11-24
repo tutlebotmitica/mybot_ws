@@ -1,0 +1,8 @@
+/home/turtlebot/mybot_ws/build/ros_arduino_firmware/CMakeFiles/_catkin_empty_exported_target.dir
+/home/turtlebot/mybot_ws/build/ros_arduino_firmware/CMakeFiles/clean_test_results.dir
+/home/turtlebot/mybot_ws/build/ros_arduino_firmware/CMakeFiles/download_extra_data.dir
+/home/turtlebot/mybot_ws/build/ros_arduino_firmware/CMakeFiles/doxygen.dir
+/home/turtlebot/mybot_ws/build/ros_arduino_firmware/gtest/CMakeFiles/gtest.dir
+/home/turtlebot/mybot_ws/build/ros_arduino_firmware/gtest/CMakeFiles/gtest_main.dir
+/home/turtlebot/mybot_ws/build/ros_arduino_firmware/CMakeFiles/run_tests.dir
+/home/turtlebot/mybot_ws/build/ros_arduino_firmware/CMakeFiles/tests.dir

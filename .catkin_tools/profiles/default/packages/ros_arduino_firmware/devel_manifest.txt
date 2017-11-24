@@ -1,0 +1,4 @@
+ros_arduino_bridge-indigo-devel/ros_arduino_firmware
+/home/turtlebot/mybot_ws/devel/.private/ros_arduino_firmware/share/ros_arduino_firmware/cmake/ros_arduino_firmwareConfig.cmake /home/turtlebot/mybot_ws/devel/share/ros_arduino_firmware/cmake/ros_arduino_firmwareConfig.cmake
+/home/turtlebot/mybot_ws/devel/.private/ros_arduino_firmware/share/ros_arduino_firmware/cmake/ros_arduino_firmwareConfig-version.cmake /home/turtlebot/mybot_ws/devel/share/ros_arduino_firmware/cmake/ros_arduino_firmwareConfig-version.cmake
+/home/turtlebot/mybot_ws/devel/.private/ros_arduino_firmware/lib/pkgconfig/ros_arduino_firmware.pc /home/turtlebot/mybot_ws/devel/lib/pkgconfig/ros_arduino_firmware.pc

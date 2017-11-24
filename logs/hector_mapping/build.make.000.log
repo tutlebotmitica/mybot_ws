@@ -1,0 +1,25 @@
+[35m[1mScanning dependencies of target _hector_mapping_generate_messages_check_deps_HectorIterData
+[0m[  0%] Built target _hector_mapping_generate_messages_check_deps_HectorIterData
+[35m[1mScanning dependencies of target _hector_mapping_generate_messages_check_deps_HectorDebugInfo
+[0m[  0%] Built target _hector_mapping_generate_messages_check_deps_HectorDebugInfo
+[35m[1mScanning dependencies of target hector_mapping_generate_messages_cpp
+[0m[ 10%] [34m[1mGenerating C++ code from hector_mapping/HectorDebugInfo.msg
+[0m[ 20%] [34m[1mGenerating C++ code from hector_mapping/HectorIterData.msg
+[0m[ 20%] Built target hector_mapping_generate_messages_cpp
+[35m[1mScanning dependencies of target hector_mapping_generate_messages_py
+[0m[ 30%] [34m[1mGenerating Python from MSG hector_mapping/HectorDebugInfo
+[0m[ 40%] [34m[1mGenerating Python from MSG hector_mapping/HectorIterData
+[0m[ 50%] [35m[1mScanning dependencies of target hector_mapping_generate_messages_lisp
+[0m[34m[1mGenerating Python msg __init__.py for hector_mapping
+[0m[ 60%] [34m[1mGenerating Lisp code from hector_mapping/HectorDebugInfo.msg
+[0m[ 60%] Built target hector_mapping_generate_messages_py
+[ 70%] [34m[1mGenerating Lisp code from hector_mapping/HectorIterData.msg
+[0m[ 70%] Built target hector_mapping_generate_messages_lisp
+[35m[1mScanning dependencies of target hector_mapping
+[35m[1mScanning dependencies of target hector_mapping_generate_messages
+[0m[ 70%] Built target hector_mapping_generate_messages
+[0m[ 80%] [32mBuilding CXX object CMakeFiles/hector_mapping.dir/src/HectorMappingRos.cpp.o
+[0m[ 90%] [32mBuilding CXX object CMakeFiles/hector_mapping.dir/src/main.cpp.o
+[0m[100%] [32mBuilding CXX object CMakeFiles/hector_mapping.dir/src/PoseInfoContainer.cpp.o
+[0m[31m[1mLinking CXX executable /home/turtlebot/mybot_ws/devel/.private/hector_mapping/lib/hector_mapping/hector_mapping
+[0m[100%] Built target hector_mapping

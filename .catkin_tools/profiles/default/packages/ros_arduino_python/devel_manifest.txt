@@ -1,0 +1,5 @@
+ros_arduino_bridge-indigo-devel/ros_arduino_python
+/home/turtlebot/mybot_ws/devel/.private/ros_arduino_python/share/ros_arduino_python/cmake/ros_arduino_pythonConfig-version.cmake /home/turtlebot/mybot_ws/devel/share/ros_arduino_python/cmake/ros_arduino_pythonConfig-version.cmake
+/home/turtlebot/mybot_ws/devel/.private/ros_arduino_python/share/ros_arduino_python/cmake/ros_arduino_pythonConfig.cmake /home/turtlebot/mybot_ws/devel/share/ros_arduino_python/cmake/ros_arduino_pythonConfig.cmake
+/home/turtlebot/mybot_ws/devel/.private/ros_arduino_python/lib/python2.7/dist-packages/ros_arduino_python/__init__.py /home/turtlebot/mybot_ws/devel/lib/python2.7/dist-packages/ros_arduino_python/__init__.py
+/home/turtlebot/mybot_ws/devel/.private/ros_arduino_python/lib/pkgconfig/ros_arduino_python.pc /home/turtlebot/mybot_ws/devel/lib/pkgconfig/ros_arduino_python.pc

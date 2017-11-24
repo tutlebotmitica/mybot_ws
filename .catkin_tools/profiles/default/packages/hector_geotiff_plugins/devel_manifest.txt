@@ -1,0 +1,5 @@
+hector_slam/hector_geotiff_plugins
+/home/turtlebot/mybot_ws/devel/.private/hector_geotiff_plugins/share/hector_geotiff_plugins/cmake/hector_geotiff_pluginsConfig.cmake /home/turtlebot/mybot_ws/devel/share/hector_geotiff_plugins/cmake/hector_geotiff_pluginsConfig.cmake
+/home/turtlebot/mybot_ws/devel/.private/hector_geotiff_plugins/share/hector_geotiff_plugins/cmake/hector_geotiff_pluginsConfig-version.cmake /home/turtlebot/mybot_ws/devel/share/hector_geotiff_plugins/cmake/hector_geotiff_pluginsConfig-version.cmake
+/home/turtlebot/mybot_ws/devel/.private/hector_geotiff_plugins/lib/libhector_geotiff_plugins.so /home/turtlebot/mybot_ws/devel/lib/libhector_geotiff_plugins.so
+/home/turtlebot/mybot_ws/devel/.private/hector_geotiff_plugins/lib/pkgconfig/hector_geotiff_plugins.pc /home/turtlebot/mybot_ws/devel/lib/pkgconfig/hector_geotiff_plugins.pc

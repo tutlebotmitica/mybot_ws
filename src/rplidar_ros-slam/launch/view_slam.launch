@@ -1,0 +1,14 @@
+<!--
+  Used for visualising rplidar in action.
+
+  It requires rplidar.launch.
+ -->
+<launch>
+  <include file="$(find rplidar_ros)/launch/rplidar.launch" />
+  <include file="$(find rplidar_ros)/launch/hectormapping.launch" />
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find rplidar_ros)/rviz/slam.rviz" />
+  <node name="arduino" pkg="ros_arduino_python" type="arduino_node.py" output="screen">
+      <rosparam file="$(find ros_arduino_python)/config/my_arduino_params.yaml" command="load" />
+   </node>
+
+</launch>
